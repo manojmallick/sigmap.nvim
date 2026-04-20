@@ -4,8 +4,8 @@
 
 ### SigMap AI context engine — Neovim plugin
 
-[![GitHub release](https://img.shields.io/github/v/release/manojmallick/sigmap.nvim?color=7c6af7&label=release&logo=github)](https://github.com/manojmallick/sigmap.nvim/releases)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/manojmallick/sigmap.nvim/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/manojmallick/sigmap.nvim?color=7c6af7&label=release&logo=github)](https://github.com/manojmallick/sigmap.nvim/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Neovim ≥0.9](https://img.shields.io/badge/neovim-%E2%89%A50.9-57A143?logo=neovim)](https://neovim.io)
 [![Node ≥18](https://img.shields.io/badge/node-%E2%89%A518-brightgreen?logo=node.js)](https://nodejs.org)
 
